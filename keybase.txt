@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/ts
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://surbakti.com
+  * I am ts (https://keybase.io/ts) on keybase.
+  * I have a public key with fingerprint 90F4 ECCD 3508 AE5F 1FC1  7986 2EF2 957B 5ECF 87CC
+
+To claim this, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "90f4eccd3508ae5f1fc179862ef2957b5ecf87cc",
+            "host": "keybase.io",
+            "key_id": "2ef2957b5ecf87cc",
+            "uid": "837bcbca4308bbc82a64cd707c1e6a00",
+            "username": "ts"
+        },
+        "service": {
+            "hostname": "surbakti.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1404142370,
+    "expire_in": 157680000,
+    "prev": "b22b6506b1ec43b04d1b84cf398c0c842f5fd458f388c7e5d36341e91fc9f3a0",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+with the aforementioned key, yielding the PGP signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owGbwMvMwMSo92lqddz59jOMpw+8SWII3tisXa2UlJ9SqWRVrZSdCqbSMvPSU4sK
+ijLzSpSslCwN0kxSk5NTjE0NLBJTTdMM05INzS0tzIxS04wsTc2TTFOT0yzMk5OV
+dJQy8otBOoDGJCUWp+pl5gPFgJz4zBSgKBb1pWAJC2PzpOSk5EQTYwOLpKRkC6NE
+M5PkFHMD82TDVLNEAwOQwuLUorzE3FSg6pJipVodJSC/LDM5FeRakKVQueLSoqTE
+7JJMveT8XKCugqL8kvzk/BygTEZJSYEVSGNJZQFIZXlqUjzUjPikzLwUoI+BGspS
+i4oz8/OUrAyBKpNLMkGGGpoYmBiaGBmbG+gopVYUZBalxmeCVJiam1kYAAHImtQy
+oJFJRkZJZqYGZkmGqckmxkkGJimGSRYmyWnGlhbJBskWJkZppmkpJqYWacYWFsnm
+qaYpxmbGJoaplsDwtEwzTgR5szi1MC9fycoE6MzEdJB/MtPzEktKi1KVark6mWRY
+GBiZGNhYmUCRxsDFKQCLyqZGAYbbV/7barSHvjt5vc5QLtif16i4xO3JAvEba0uk
+Fnzbv/i99SPz77qh6e4Pt4YGzciNlvv27UPMps/Wv7n2pn5PfSl54MDB9I3sYZ7P
+zpyc/iRO7pTIofbyW1v/Hn7W5ve/uPbrtp2b/af3+OYxLjEUntnuNZdrRlm/Nrvq
+9piH3s8YxXxttC3Nvn/0bgsMnK+yIXZX9aPcrbkfNn79VvnK5bXMtaWq6/lz+8Su
+RznrVF5+MK1iv5h/YErc65zt8/ik95TufuhxfK6TqJeZ7/nUjqwb0R3fF0Zl6/67
+86pqm7a2yfOOL7YFjJ173hVXmu47ZMxd/6nx+rfp/680GQVOu5gkIX3mqcC7zJxr
+gn3K1798eH0nt/1Ez+rjVaxmzGI7J8gn3FIOmuW4rCGowTpZ7Z7RDUYB0YjMonOt
+SgsTE6xbErnknL6t1d577/P763w/rz1p1j2etSTnTNn95fkv6/S/XZ7BpPqzYrOw
+1jJX1orHbM5d/7Sb7wO1XnHbaSU5Pyjr8KP7e14GdE+/vnPr97YgQVmj3/uPTC61
+O3Joi/0PxjV/Ii8l75vOaX6b7cysGw8EIn9O/hb0t/S3g8SOiezi6febsr+dVP1b
+eit8j8eFb6rVz2rUzqp9faVu1VXC5vCP2/f1zTtzjQxa849Oyon553dj5x63y1fl
+Uyb80FWJkuGfa9TrNH3pupIz6hMZe5JeyS/jjJnpVwEA
+=GiTj
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/ts
+
+==================================================================
