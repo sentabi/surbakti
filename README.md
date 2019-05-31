@@ -1,9 +1,10 @@
 # surbakti
-source code [surbakti.com](https://surbakti.com)
+source code situs [surbakti.com](https://surbakti.com)
 
 ## Makesa
 
-Download `branch` ```gh-pages``` https://github.com/sentabi/surbakti/archive/gh-pages.zip, dung e klik `index.html`. 
+Download https://github.com/sentabi/surbakti/archive/master.zip. Ekstrak file 
+`master.zip`. Edit file `index.html` dung e buka alu browser. 
 
 Nggo bage saja cara pakena ;) 
 
